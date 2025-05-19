@@ -1,4 +1,4 @@
-# Fake News Detection Model - Fixed Version for VS Code
+# Fake News Detection Model 
 import os
 import pandas as pd
 import numpy as np
